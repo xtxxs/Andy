@@ -69,3 +69,7 @@ body
   top: 62px;
   -webkit-text-stroke: 2px rgb(129, 97, 143);
 }
+a.sp-cred {
+  color: #fffefe;
+  text-decoration: none;
+}
